@@ -59,10 +59,10 @@
     margin-bottom: 40px;
 }
 .foto_grid_768_item_1{
-    content: url(/img/foto/31.png);
+    content: url(../img/foto/31.png);
 }
 .foto_grid_768_item_2{
-    content: url(/img/foto/22.png);
+    content: url(../img/foto/22.png);
 }
 .app_title{
     font-size: 32px;
@@ -87,7 +87,7 @@
 }
 .pop_up_wrapper{
     max-width: 370px;
-
+    margin-top: 30px;
 }
 .pop_up_left{
     display: none;
