@@ -232,7 +232,7 @@ body{
     display: grid;
     grid-template-columns: 1.5fr 2fr;
     margin: auto;
-    margin-top: 1%;
+    margin-top: 13%;
     padding: 16px;
     grid-gap: 20px;
 }
